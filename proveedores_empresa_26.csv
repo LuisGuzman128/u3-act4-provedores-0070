@@ -1,0 +1,7 @@
+﻿id_proveedor,nombre_empresa,contacto,telefono,correo,categoria_suministro,dias_credito,calificacion_servicio,compras_ultimo_mes,estado,ciudad
+601,Distribuidora Sur,Juan Perez,551111,juan@dist.com,Abarrotes,15,9,15000,Activo,CDMX
+602,Aceites MX,Maria Lopez,552222,maria@aceites.com,Aceites,30,8,8000,Activo,Guadalajara
+603,Lala Directo,Carlos Ruiz,553333,carlos@lala.com,Lacteos,15,10,12000,Activo,Monterrey
+604,Bimbo Directo,Ana Garcia,554444,ana@bimbo.com,Panaderia,7,9,20000,Activo,CDMX
+605,Granjas Unidas,Luis Torres,555555,luis@granjas.com,Refrigerados,15,7,9000,Suspendido,Puebla
+606,Papelera Central,Sofia Diaz,556666,sofia@papel.com,Papeleria,30,8,3000,Activo,CDMX
